@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+
+}
+.cabecalho {
+    min-width: 500;
+    max-width: 800px;
+    height: 5rem;
+    background-color: aqua;
+}
